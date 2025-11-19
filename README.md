@@ -38,8 +38,9 @@ Other: Anything that makes development faster and cleaner
 📚 Sharing what I learn along the way
 
 📫 Connect With Me
-NB: "ai generated.it will be changed to something better ASAP"
 
 GitHub: you’re already here!
 
 Email: moumenejjjj@gmail.com
+
+NB: "ai generated.it will be changed to something better ASAP"
