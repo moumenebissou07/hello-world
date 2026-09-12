@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨 I am HALASSI ABD EL-MOUMENE,i am 19 years old <br>👨‍🎓 Currently a 2CP student at ESI SBA🌱 I’m planning to Master Cybersecurity
+👨 I am HALASSI ABD EL-MOUMENE,i am 19 years old <br>👨‍🎓 Currently a 2CP student at cy tech-institut des sciences et techniques Cergy,Paris<br>🌱 I’m planning to Master Cybersecurity
 <br> 🔥 currently focusing on LEETCODE more than GITHUB ("SO DON'T JUDGE").
 
 
